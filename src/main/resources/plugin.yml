@@ -1,0 +1,6 @@
+name: SmallSilkSpawners
+version: ${project.version}
+author: Mas281
+
+main: io.samdev.smallsilkspawners.SmallSilkSpawners
+api-version: 1.13
